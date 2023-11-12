@@ -1,0 +1,16 @@
+1. Card creation
+    box-shadow
+    image fitting
+2. positioning
+    absolute
+    relative
+3. calc function to get height and width
+4. button ka syling
+5. align objects in single line(SCROLL effect)
+    display:flex will forcely contain all objects with overlapping
+    use display:inline-block, in objects jisme ki same line me object align hoga
+                                and whiteospace:nowrap kar do parent ka jisse ovelflow hoga
+    lekin scroll karne ke liye, overflow-x:auto, ya y-direction me scroll karne ke liye, overflow-y:auto
+    ovelflow:hidden, kar do sirf hide karne ke liye
+
+    scroll remove karne ke liye, pseudo selector webkit-scrollbar  display:none
